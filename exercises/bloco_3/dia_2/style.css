@@ -1,0 +1,31 @@
+h1 {
+  font-size: 65px;
+  color: orange;
+  font-family: sans-serif;
+}
+ul {
+  background-color: salmon;
+  line-height: 40px;
+}
+.background-favourite-color {
+  background-color: seagreen;
+}
+p {
+  font-weight: 600;
+  font-size: 3em;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+}
+body {
+  font-size: 16px;
+}
+#yellow-item {
+  background-color: yellow;
+}
+#red-item {
+  background-color: red;
+}
+#brown-item {
+  background-color: brown;
+}
