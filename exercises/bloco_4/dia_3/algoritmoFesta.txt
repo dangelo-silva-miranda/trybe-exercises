@@ -1,0 +1,18 @@
+Se não estou em casa, vá para casa;
+Vá até o quarto de casal;
+Abra o guarda-roupas;
+Escolha uma blusa xadrez;
+Desabotoe a blusa xadrez;
+Vista a blusa xadrez;
+Escolha uma calça jeans azul;
+Desabotoe a calça jeans;
+Vista a calça;
+Escolha uma meia branca;
+Para cada pé, coloque a meia nele;
+Abra a sapateira;
+Escolha um sapato preto;
+Para cada pé, insira o pé de sapato correto;
+Vá ao espelho;
+Se visual agradou, bora pra festa;
+Caso contrário, recomece o algoritmo escolhendo outros elementos a partir blusa.
+
